@@ -1,5 +1,6 @@
+import Chai from "./chai.jsx";
 function App() {
-  return <h1>Chai aur react with Vite | Harsshad</h1>;
+  return <Chai />;
 }
 
 export default App;
