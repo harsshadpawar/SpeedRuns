@@ -1,0 +1,5 @@
+function App() {
+  return <h1>Chai aur react with Vite | Harsshad</h1>;
+}
+
+export default App;
